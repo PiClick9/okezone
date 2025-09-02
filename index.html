@@ -5,6 +5,8 @@
 	<meta name="description" content="HTTrack is an easy-to-use website mirror utility. It allows you to download a World Wide website from the Internet to a local directory,building recursively all structures, getting html, images, and other files from the server to your computer. Links are rebuiltrelatively so that you can freely browse to the local site (works with any browser). You can mirror several sites together so that you can jump from one toanother. You can, also, update an existing mirror site, or resume an interrupted download. The robot is fully configurable, with an integrated help" />
 	<meta name="keywords" content="httrack, HTTRACK, HTTrack, winhttrack, WINHTTRACK, WinHTTrack, offline browser, web mirror utility, aspirateur web, surf offline, web capture, www mirror utility, browse offline, local  site builder, website mirroring, aspirateur www, internet grabber, capture de site web, internet tool, hors connexion, unix, dos, windows 95, windows 98, solaris, ibm580, AIX 4.0, HTS, HTGet, web aspirator, web aspirateur, libre, GPL, GNU, free software" />
 	<title>Local index - HTTrack Website Copier</title>
+	<link rel="stylesheet" href="https://api.aedi.ai/common/css/v1/aedi-ad.css">
+	<script src="https://api.aedi.ai/common/js/v1/aedi-ad.js"></script>
   <!-- Mirror and index made by HTTrack Website Copier/3.49-2 [XR&CO'2014] -->
 	<style type="text/css">
 	<!--
@@ -136,7 +138,14 @@ h4 { margin: 0;  font-weight: bold;  font-size: 1.18em; }
 	<td id="footer"><small>&copy; 2008 Xavier Roche & other contributors - Web Design: Leto Kauler.</small></td>
 	</tr>
 </table>
-
+<script>
+	var API_KEY = '2e7ceec8361275c4e31fee5fe422740b';
+    var aedi_v = new Aedi();
+    var aediWritingTime = document.querySelector('meta[property="article:published_time"]').content;
+    var imgSelector = document.querySelectorAll('.img-article img');
+    var captionSelector = null;
+    aedi_v.adOpen(API_KEY, imgSelector, aediWritingTime, captionSelector);
+</script>
 </body>
 
 </html>
