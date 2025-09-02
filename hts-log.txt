@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 02 Sep 2025 10:02:37 at https://techno.okezone.com/read/2025/08/29/57/3166258/vivo-v60-resmi-diluncurkan-dengan-zeiss-telephoto-dan-fitur-fotografi-ai-eksklusif-cek-harganya +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://techno.okezone.com/read/2025/08/29/57/3166258/vivo-v60-resmi-diluncurkan-dengan-zeiss-telephoto-dan-fitur-fotografi-ai-eksklusif-cek-harganya -O1 "C:\clone\okezone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:02:53	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://techno.okezone.com/read/2025/08/29/57/3166258/vivo-v60-resmi-diluncurkan-dengan-zeiss-telephoto-dan-fitur-fotografi-ai-eksklusif-cek-harganya)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 seconds : 49 links scanned, 47 files written (4159508 bytes overall) [3121969 bytes received at 183645 bytes/sec], 1370995 bytes transferred using HTTP compression in 17 files, ratio 20%, 3.3 requests per connection
+(1 errors, 0 warnings, 0 messages)
